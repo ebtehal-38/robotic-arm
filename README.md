@@ -1,11 +1,17 @@
-# robotic-arm
+ Base , waist, Arm0 , cutout required
 
-Arm cutting installation
-The arm pieces were installed using the Blender program and the method of its installation consists of:
-First: The base was installed to give the body stability
+Arm01, Gripper 
 
-Second: The second piece was installed that fixed the base so that the rest of the pieces would be installed on it
+At first, the base (Base) is prepared and the engine is added from V
 
-Third: The piece has been installed to reach the desired shape
+The center of the piece, and then the piece (waist) is installed above
 
-Finally, install the arm piece
+The first piece and making sure that the circles fit together
+
+And the second piece is connected to the motor
+
+Prepare the arm (Arm01) by adding the motor in the box designated for it and
+
+. (Installed with the arm (Arm02) and piece No. (Gripper))
+
+After installing the piece
